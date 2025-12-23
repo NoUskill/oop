@@ -1,0 +1,3 @@
+com\tournament\library_management\LibraryManagementApplicationTests.class
+com\tournament\library_management\service\TeamServiceImplTest.class
+com\tournament\library_management\controller\TeamControllerIntegrationTest.class
